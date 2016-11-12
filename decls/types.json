@@ -1,0 +1,11 @@
+declare type ValueType = number
+
+declare type TsType = number
+
+declare type ShardIdType = number
+
+declare type ShardSizeType = number
+
+declare type ValidationType = boolean
+
+declare type RangeType = Array<TsType>
